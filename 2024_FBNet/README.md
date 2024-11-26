@@ -20,9 +20,7 @@ This is a repository to public the source codes of my papers. I would be very ha
 
 > A high-efficiency modulation classification model.
 
-<img src="https://github.com/IvanDai/PaperCode/img/FBNet_architecture-2589211.png" alt="FBNet" style="zoom:50%;" />
-
-
+<img src="/Users/ivan/SelfLib/IMG_Markdown/FBNet_architecture-2589211.png" alt="FBNet" style="zoom:50%;" />
 
 ### Abstract
 
